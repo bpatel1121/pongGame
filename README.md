@@ -1,10 +1,10 @@
-# 🏓 3D Pong Game in Web VPython
+# 3D Pong Game in Web VPython
 
 Welcome to a 3D Pong-style game built entirely in **Web VPython 3.2**! This project simulates a two-player paddle game with physics-based collision and dynamic ball movement in a 3D scene.
 
 ---
 
-## 🎮 Description
+## Description
 
 This is a simplified version of **3D Pong** implemented using **VPython**, featuring two paddles, boundary walls, and a bouncing ball. The player controls the paddles using keyboard inputs, and the ball reflects realistically off the walls and paddles.
 
@@ -12,7 +12,7 @@ The game ends when the ball crosses the left or right walls — declaring the op
 
 ---
 
-## 🧩 Features
+## Features
 
 - Real-time 3D physics simulation
 - Wall and paddle collision detection
@@ -22,7 +22,7 @@ The game ends when the ball crosses the left or right walls — declaring the op
 
 ---
 
-## ⌨️ Controls
+## Controls
 
 | Key        | Action                      |
 |------------|-----------------------------|
@@ -34,7 +34,7 @@ The game ends when the ball crosses the left or right walls — declaring the op
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Run Online
 
@@ -55,7 +55,7 @@ If you prefer to run locally:
 
 ---
 
-## 🧠 Educational Value
+## Educational Value
 
 This project helps reinforce understanding of:
 - 3D vector motion and collisions
@@ -63,19 +63,11 @@ This project helps reinforce understanding of:
 - Game loop logic
 - User input handling via `keydown` and `click` bindings
 
-Great for physics or CS students experimenting with visual simulation!
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License. Feel free to fork, remix, or build upon it.
-
----
-
-## 🙋‍♂️ Author
+## Author
 
 Developed by **Brij Patel**  
-CS + Physics/Math Major  
 For fun and educational use!
 
